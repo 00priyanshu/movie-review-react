@@ -1,7 +1,5 @@
 # Movie React App
-
-Visit the live site: 
-
+# Visit site: [priyanshu-movie-review.netlify.app](https://priyanshu-movie-review.netlify.app/)
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
