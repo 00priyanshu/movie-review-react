@@ -1,6 +1,6 @@
 # Movie React App
 
-Visit the live site: [adarsh-react-movie.netlify.app](https://adarsh-react-movie.netlify.app/)
+Visit the live site: 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
